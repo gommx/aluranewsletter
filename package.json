@@ -1,0 +1,23 @@
+{
+  "name": "aluranewsletter",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"https://user-images.githubusercontent.com/76708357/162738129-a9aa3391-385f-403d-8f36-6324549ff735.png\" alt=\"Tailwind CSS: estilizando páginas com classes utilitárias\"> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alura-cursos/aluranewsletter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alura-cursos/aluranewsletter/issues"
+  },
+  "homepage": "https://github.com/alura-cursos/aluranewsletter#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
